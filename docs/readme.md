@@ -2,20 +2,19 @@ Página para Inmobiliaria "Esteban Costela Propiedades"
 
 ## Incluye ##
  
-Index
-Inmuebles
-Detalle de Inmueble
-Contacto
-Preguntas Frecuentes
-
-Carrusel con imágenes
-Buscador con filtros de:
- # Tipo de Inmueble
- # Localización
- # Tipo de Operación
-Suscripciones
-Lista con últimos inmuebles agregados
-Búsqueda inteligente de inmuebles (por filtros)
-Acceso a redes sociales
-y más...
-
+<p>Index </p>
+<p>Inmuebles </p>
+<p>Detalle de Inmueble </p>
+<p>Contacto </p>
+<p>Preguntas Frecuentes </p>
+<p>Carrusel con imágenes </p>
+<p>Buscador con filtros de: </p>
+ <li> Tipo de Inmueble </li>
+ <li> Localización </li>
+ <li> Tipo de Operación </li>
+	<br>
+<p>Suscripciones </p>
+<p>Lista con últimos inmuebles agregados </p>
+<p>Búsqueda inteligente de inmuebles (por filtros) </p>
+<p>Acceso a redes sociales </p>
+<p>y más... </p>
